@@ -1,13 +1,187 @@
-h1 {
-  color: blue;
+/* * {
+  padding: 0;
+  margin: 0;
 }
-p {
-  color: green;
+#navbar {
+  height: 60px;
+  background-color: black;
 }
 button {
-  color: brown;
-  background-color: rgb(240, 242, 236);
+  background-color: orange;
 }
-body {
-  background-color: #ffff66;
+#logo {
+  color: orange;
+  font-size: 25px;
+}
+a {
+  margin-right: 200px;
+  text-decoration: none;
+  color: aliceblue;
+} */
+
+/* #placebar {
+  background-color: black;
+  height: 400px;
+}
+#logo {
+  color: red;
+  font-size: 30px;
+}
+button {
+  background-color: orange;
+  font-size: 30px;
+  border-radius: 20px;
+} 
+.zom {
+  text-align: center;
+  font-size: 100px;
+  font-family: cursive;
+}
+#new {
+  text-align: center; */
+/* font-size: 100px; */
+/* }
+input {
+  font-size: 30px;
+  border-radius: 20px;
+}
+a {
+  margin-right: 150px;
+}
+.discover {
+  text-align: center;
+  font-size: 25px;
+} */
+/* .contentBox1 {
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  background-color: rgba(255, 0, 0, 0.5);
+  display: inline-block;
+}
+.contentBox2 {
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  background-color: rgba(0, 255, 0, 0.5);
+  display: inline-block;
+}
+.contentBox3 {
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  background-color: rgba(0, 0, 255, 0.5);
+  display: inline-block;
+}
+footer {
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+}
+#content {
+  height: 555px;
+} */
+/* div {
+  height: 100px;
+  width: 100px;
+  background-image: url("love nature.avif");
+  background-size: cover;
+  position: fixed;
+  right: 0px;
+  top: 20px;
+} */
+/* .scrollbar {
+  background-color: red;
+  display: flex;
+  justify-content: space-evenly;
+}
+a {
+  text-decoration: none;
+  color: white;
+  background-color: black;
+}
+li {
+  list-style-type: none;
+  display: inline;
+}
+.outer {
+  height: 400px;
+  width: 400px;
+  background-color: cornflowerblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inner {
+  height: 200px;
+  width: 200px;
+  background-color: pink;
+} */
+/* div {
+  height: 50px;
+  width: 50px;
+  background-color: blue;
+}
+@media (width: 600px) {
+  div {
+    background-color: red;
+  }
+}
+@media (min-width: 600px) {
+  div {
+    background-color: green;
+  }
+}
+@media (min-width: 200px) and (max-width: 300px) {
+  div {
+    background-color: orange;
+  }
+} */
+/* div {
+  height: 200px;
+  width: 200px;
+  background-color: black;
+}
+@media (max-width: 300px) {
+  div {
+    background-color: green;
+  }
+}
+@media (max-width: 400px) and (min-width: 300px) {
+  div {
+    background-color: pink;
+  }
+}
+@media (max-width: 600px) and (min-width: 400px) {
+  div {
+    background-color: red;
+  }
+}
+@media (min-width: 600px) {
+  div {
+    background-color: blue;
+  }
+} */
+/* div {
+  height: 100px;
+  width: 100px;
+  background-color: aquamarine;
+  border: 2px solid black;
+} */
+.loader {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 10px solid blue;
+  background-color: white;
+  border-top: 10px solid black;
+  animation: spinAnimate 3s linear 0s infinite;
+}
+@keyframes spinAnimate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
